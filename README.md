@@ -23,7 +23,7 @@ Since I've decided to develop an upgraded vulscan's version so I thought of givi
 
 ### ⌚ Total Time taken to build & test
 
- Approx 3-3:30 hr.
+ Approx 2 hr 20 min
 
 ### 🙃Why I Created This
 
