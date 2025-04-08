@@ -55,7 +55,7 @@ You have to run the following minimal command to initiate a simple vulnerability
 
     nmap -sV --script=vulturescan/vulturescan.nse www.example.com
 
-### 🐰 Vulnerability Database
+### 🔰 Vulnerability Database
 
 There are the following pre-installed databases available at the moment:
 
@@ -68,7 +68,7 @@ There are the following pre-installed databases available at the moment:
 * securitytracker.csv - https://www.securitytracker.com (end-of-life)
 * osvdb.csv - http://www.osvdb.org (end-of-life)
 
-### Single Database Mode
+### 🔰 Single Database Mode
 
 You may execute vulturescan with the following argument to use a single database:
 
