@@ -14,7 +14,7 @@
 
 ### 📌 Overview
   
-Vulturescan is a module which shows all vulnerabilities of a specified target, similar to the [vulscan](https://github.com/scipag/vulscan) module but with updated exploits. On running the script (bash / powershell), it downloads all current and previous exploits from ExploitDB. Also, it is constantly being updated with CVEs from MITRE Co.
+Vulturescan is a module which shows all vulnerabilities of a specified target, similar to the [vulscan](https://github.com/scipag/vulscan) module but with updated exploits. On running the script (bash / powershell), it downloads all current and previous exploits from ExploitDB. 
 
 ### 🤔 Why This Name?
 
