@@ -18,7 +18,7 @@ Vulturescan is a module which shows all vulnerabilities of a specified target, s
 
 ### 🤔 Why This Name?
 
-Since I've decided to develop an upgraded vulscan's version so I thought of giving it similar yet sick name.
+Since I was developing an upgraded version of Vulscan, I wanted to give it a name similar to Vulscan, yet something sick and cool.
     
 
 ### ⌚ Total Time taken to build & test
